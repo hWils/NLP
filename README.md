@@ -20,8 +20,7 @@ pyLDAvis library for visualization (optional)
 For a detailed walkthrough, refer to the code comments and associated documentation.
 Feel free to modify the summary to match your specific context and emphasis.
 
-
-[Visualisation of topic 1 and its most salient words ](topic1.png)
+![plot](topic1.png)
 
 
 
