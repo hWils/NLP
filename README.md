@@ -17,8 +17,7 @@ In this Python code, topic modeling using Latent Dirichlet Allocation (LDA) is p
 Python 3.x
 Gensim library
 pyLDAvis library for visualization (optional)
-For a detailed walkthrough, refer to the code comments and associated documentation.
-Feel free to modify the summary to match your specific context and emphasis.
+
 
 ![plot](topic1.png)
 
