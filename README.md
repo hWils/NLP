@@ -1,7 +1,7 @@
 ## Knowledge Graphs generated via GPT
 In this python code, I generate a knowledge graph from a document. In this example, the chapter 'Knot' from Anne Dilliard's book, Pilgram at Tinker Creek is used as input. The entities and relations are generated using a gpt model. Different colours are dynamically assigned to the different types of entities.
 
-
+![plot](knowledgegraph_knot.png)
 
 
 ## Topic Modeling with LDA
